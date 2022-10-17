@@ -34,7 +34,7 @@ CLASS Form1 INHERITS Form:
 	------------------------------------------------------------------------------*/
 	@VisualDesigner.
 	METHOD PRIVATE VOID Form1_Load( INPUT sender AS System.Object, INPUT e AS System.EventArgs ):
-		/*HI jskdjks*/
+		/*HI jskdjksds*/
 		RETURN.
 
 	END METHOD.
